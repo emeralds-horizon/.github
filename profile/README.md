@@ -2,7 +2,7 @@
 
 ## WP4 Extreme Scale Mobility Data Analytics & Learning
 
-### T4.1 Extreme Scale Mobility Data Analytics at the Edge/Fog/Cloud continuum
+### T4.1 Extreme Scale Mobility Data Analytics at the Edge/Fog/Cloud Continuum
 
 - [Dropoff / Destination Prediction](https://github.com/emeralds-horizon/Dropoff-Prediction/tree/main)
 - [Probabilistic Approach for Trip Chaining](https://github.com/emeralds-horizon/UC3-TripChaining_CrowdDensity/tree/main)
