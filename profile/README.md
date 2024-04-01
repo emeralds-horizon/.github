@@ -1,5 +1,25 @@
 # EMERALDS - Extreme-scale Urban Mobility Data Analytics as a Service
 
+## WP3 Mobility Data Processing at the Compute Continuum
+
+### T3.1 Privacy-Aware in-situ Data Harvesting
+
+- [Privacy Aware Data Ingestion](https://github.com/emeralds-horizon/privacy-evaluator)
+- [Extreme Scale Stream Processing Orchestrator]
+   - [Deployer](https://github.com/emeralds-horizon/orchestrator)
+   - [Data Broker](https://github.com/emeralds-horizon/data_broker)
+     
+### T3.2 Extreme-scale Cloud/Fog Data Processing
+
+- [Extreme Scale Map Matching](https://github.com/emeralds-horizon/Extreme-scale-map-matching)
+- [Weather Enrichment](https://github.com/emeralds-horizon/Weather-Integrator)
+- [Spatio-Temporal Querying](https://github.com/emeralds-horizon/Spatio-temporal-querying)
+  
+### T3.3 Mobility Data Fusion and Management
+
+- [Mobility/Trajectory Data Compression](https://github.com/emeralds-horizon/WP3-Service-Task-3.3-Data-Compression)
+- [Sensor Data Fusion](https://github.com/emeralds-horizon/WP3-Service-Task-3.3-Data-Fusion--Traffic-State-Estimation)
+
 ## WP4 Extreme Scale Mobility Data Analytics & Learning
 
 ### T4.1 Extreme Scale Mobility Data Analytics at the Edge/Fog/Cloud Continuum
