@@ -48,6 +48,9 @@
 - [Set of available Docker images for mobility data analysis](https://github.com/emeralds-horizon/mlops-platform-Docker-images)
 
 
+## WP2 Reference Architecture and Toolset Integration
 
+### Task 2.1 Reference Architecture and Containerization of Services
+- [Emeralds Hosting Services](https://github.com/emeralds-horizon/emeralds-hosting-services)
 
 
