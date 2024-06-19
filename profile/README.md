@@ -54,3 +54,4 @@
 - [Emeralds Hosting Services](https://github.com/emeralds-horizon/emeralds-hosting-services)
 
 
+**This project has received funding from the Horizon Europe R&I programme under the GA No. 101093051**
