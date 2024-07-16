@@ -5,7 +5,7 @@
 ### T3.1 Privacy-Aware in-situ Data Harvesting
 
 - [Privacy Aware Data Ingestion](https://github.com/emeralds-horizon/privacy-evaluator)
-- [Extreme Scale Stream Processing Orchestrator]
+- Extreme Scale Stream Processing Orchestrator
    - [Deployer](https://github.com/emeralds-horizon/orchestrator)
    - [Data Broker](https://github.com/emeralds-horizon/data_broker)
      
