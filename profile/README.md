@@ -18,7 +18,7 @@
 ### T3.3 Mobility Data Fusion and Management
 
 - [Mobility/Trajectory Data Compression](https://github.com/emeralds-horizon/WP3-Service-Task-3.3-Data-Compression)
-- [Sensor Data Fusion](https://github.com/emeralds-horizon/WP3-Service-Task-3.3-Data-Fusion--Traffic-State-Estimation)
+- [Sensor Data Fusion](https://github.com/emeralds-horizon/WP3-Service-Task-3.3-Data-Fusion--Traffic-State-Estimation) -- [MLOps](https://github.com/emeralds-horizon/mlops-platform-data-fusion)
 
 ## WP4 Extreme Scale Mobility Data Analytics & Learning
 
@@ -33,9 +33,9 @@
 
 ### T4.2 Active & Federated Learning over Mobility Data
 
-- [Traffic State / Flow Forecasting](https://github.com/emeralds-horizon/WP4_Traffic_state_forecasting)
-- [Parking Garage Occupancy Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-parking-model)
-- [Crowd Density Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-crowd-model)
+- [Traffic State / Flow Forecasting](https://github.com/emeralds-horizon/WP4_Traffic_state_forecasting) 
+- [Parking Garage Occupancy Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-parking-model) -- [MLOps](https://github.com/emeralds-horizon/mlops-parking-model)
+- [Crowd Density Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-crowd-model) -- [MLOps](https://github.com/emeralds-horizon/mlops-crowd-density))
 - Active Learning & XAI for Crowd Prediction
    - [XAI for Crowd Density Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-crowd-model)
    - [XAI for Parking Garage Occupancy Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-parking-model)
