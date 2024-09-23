@@ -39,6 +39,7 @@
 - Active Learning & XAI for Crowd Prediction
    - [XAI for Crowd Density Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-crowd-model)
    - [XAI for Parking Garage Occupancy Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-parking-model)
+- [Federated Learning Models for Mobility Data](https://github.com/emeralds-horizon/federatedLearning)
 
 ### T4.3 Mobility AI-as-a-Service
 
