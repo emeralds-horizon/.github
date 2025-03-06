@@ -22,6 +22,8 @@
 
 ## WP4 Extreme Scale Mobility Data Analytics & Learning
 
+- [Model Card Template](https://github.com/emeralds-horizon/model-card-template)
+
 ### T4.1 Extreme Scale Mobility Data Analytics at the Edge/Fog/Cloud Continuum
 
 - [Dropoff / Destination Prediction](https://github.com/emeralds-horizon/Dropoff-Prediction/tree/main)
