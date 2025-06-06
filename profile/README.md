@@ -39,7 +39,7 @@
 - [Parking Garage Occupancy Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-parking-model) -- [MLOps](https://github.com/emeralds-horizon/mlops-parking-model)
 - Crowd Density Prediction
    - [UC1 Crowd Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-crowd-model) -- [MLOps](https://github.com/emeralds-horizon/mlops-crowd-density)
-   - [UC3 Crowd Prediction](https://github.com/emeralds-horizon/UC3-CrowdPrediction)   
+   - [UC3 Crowd Prediction](https://github.com/emeralds-horizon/UC3-CrowdPrediction) -- [MLOps](https://github.com/emeralds-horizon/mlops-crowd-prediction-UC3)  
 - Active Learning & XAI for Crowd Prediction
    - [XAI for Crowd Density Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-crowd-model)
    - [XAI for Parking Garage Occupancy Prediction](https://github.com/emeralds-horizon/analytics-and-learning/tree/main/uc1-parking-model)
