@@ -57,7 +57,7 @@
 ## WP2 Reference Architecture and Toolset Integration
 
 ### Task 2.1 Reference Architecture and Containerization of Services
-- [Emeralds Hosting Services](https://github.com/emeralds-horizon/emeralds-hosting-services)
+- [Emeralds Hosting Platform](https://github.com/emeralds-horizon/emeralds-hosting-platform)
 
 
 **This project has received funding from the Horizon Europe R&I programme under the GA No. 101093051**
